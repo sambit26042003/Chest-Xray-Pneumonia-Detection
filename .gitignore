@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code Settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python environment files
+.env
+
+# TensorBoard logs
+logs/
+
+# Build files
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.log
