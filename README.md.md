@@ -90,7 +90,7 @@ Precision:
 
 83.26%
 
-Recall:
+Recall:![alt text](home.png)
 
 98.20%
 
@@ -141,19 +141,23 @@ streamlit run app.py
 
 ### Home Page
 
-(Add Screenshot Here)
+![Home Page](images/home_image/home.png)
 
 ---
 
 ### NORMAL Prediction
 
-(Add Screenshot Here)
+![Normal Uploaded](images/normal_prediction_image/uploaded_image.png)
+
+![Normal Result](images/normal_prediction_image/output_result.png)
 
 ---
 
 ### PNEUMONIA Prediction
 
-(Add Screenshot Here)
+![Pneumonia Uploaded](images/pneumonia_prediction_image/uploaded_image.png)
+
+![Pneumonia Result](images/pneumonia_prediction_image/output_result.png)
 
 ---
 
